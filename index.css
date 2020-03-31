@@ -1,0 +1,51 @@
+.Bosstitle{
+    text-align: center;
+    font-size: 40px;    
+}
+.weight{
+    text-align: center;
+    width: 300px;
+    height: 90px;
+    font-size: 30px;
+    font-weight: bold;
+    color: black;
+}
+.height{
+    text-align: center;
+    width: 300px;
+    height: 90px;
+    font-size: 30px;
+    font-weight: bold;
+    color: black;
+}
+.top{
+    margin-top: 80px;
+    text-align: center;
+}
+.bottom{
+    text-align: center;
+}
+.resultbutton{
+    margin-top: 50px;
+    width: 250px;
+    height: 50px;
+    background-color:green;
+    color: white;
+    font-weight: bold;
+    font-size: 30px;
+    border-radius: 50px;
+}
+.result{
+    text-align: center;
+    width: 290px;
+    height: 60px;
+    font-weight: bold;
+    font-size: 30px;
+}
+.result_div{
+    margin-top: 30px;
+}
+.img{
+    text-align: center;
+    margin-top: 40px;
+}
